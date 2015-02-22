@@ -1,5 +1,5 @@
 # rpi-java
-Raspberry Pi comptible Docker baseimage with Java preinstalled.
+Raspberry Pi compatible Docker base image with Java preinstalled.
 
 Uses `openjdk-7-jre`.
 Run all the commands from within the project root directory.
