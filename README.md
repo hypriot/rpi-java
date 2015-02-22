@@ -23,10 +23,10 @@ make version
 #### Push the Docker Image to the Docker Hub
 * First use a `docker login` with username, password and email address
 * Second push the Docker Image to the official Docker Hub
+* 
 ```bash
 make push
 ```
-
 
 ## License
 
