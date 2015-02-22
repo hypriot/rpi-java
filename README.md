@@ -1,4 +1,7 @@
 # rpi-java
+
+[![dockeri.co](http://dockeri.co/image/hypriot/rpi-java)](https://registry.hub.docker.com/u/hypriot/rpi-java/)
+
 Raspberry Pi compatible Docker base image with Java.
 
 Uses `openjdk-7-jre`.
