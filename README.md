@@ -1,21 +1,22 @@
 # rpi-java
-Docker Image packaging for Java, used for Raspberry Pi
+Raspberry Pi comptible Docker baseimage with Java preinstalled.
 
-Based upon `openjdk-7-jre`.
+Uses `openjdk-7-jre`.
+Run all the commands from within the project root directory.
 
-### build the Docker Image
+### build the Docker image
 ```bash
 make build
 ```
 
-### run the Docker Image and get version of installed Java
+### run the Docker image and get the version of installed Java Runtime Environment
 ```bash
 make version
 ```
 
-### push Docker Image to Docker Hub
-* First, use a `docker login` with username, password and email address
-* Second, push Docker Image to the official Docker Hub
+### push the Docker image to the Docker Hub
+* First use a `docker login` with username, password and email address
+* Second push the Docker image to the official Docker Hub
 ```bash
 make push
 ```
