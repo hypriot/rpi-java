@@ -2,7 +2,7 @@
 
 Raspberry Pi compatible Docker base image with OpenJDK, an open-source implementation of the Java Platform.
 
-Uses `openjdk-7-jre`.
+Uses `openjdk-8-jre-headless`.
 Run all the commands from within the project root directory.
 
 ### Build Details
