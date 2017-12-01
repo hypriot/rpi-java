@@ -1,3 +1,5 @@
+# DEPRECATED: PLEASE USE OFFICIAL DOCKER IMAGES `openjdk` AS THEY PROVIDE IMAGES FOR ARM
+
 # rpi-java [![Build Status](https://travis-ci.org/hypriot/rpi-java.svg?branch=master)](https://travis-ci.org/hypriot/rpi-java)
 
 Raspberry Pi compatible Docker base image with OpenJDK, an open-source implementation of the Java Platform.
